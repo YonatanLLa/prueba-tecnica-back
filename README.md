@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una aplicación .NET 8 que [breve descripción del propósito del proyecto].
+Este proyecto es una aplicación .NET 8.
 
 ## Requisitos
 
