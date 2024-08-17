@@ -41,4 +41,6 @@ Este proyecto utiliza los siguientes paquetes:
 - `Microsoft.EntityFrameworkCore.Tools` para herramientas de Entity Framework Core.
 - `Swashbuckle.AspNetCore` para la documentación de la API con Swagger.
 
+### Video
+
 
