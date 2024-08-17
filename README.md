@@ -39,7 +39,6 @@ Este proyecto utiliza los siguientes paquetes:
 - `Microsoft.EntityFrameworkCore` para la interacción con bases de datos.
 - `Microsoft.EntityFrameworkCore.SqlServer` para el soporte de SQL Server (o reemplaza con `Microsoft.EntityFrameworkCore.[tu_db_provider]` si usas otro proveedor de base de datos).
 - `Microsoft.EntityFrameworkCore.Tools` para herramientas de Entity Framework Core.
-- `Microsoft.VisualStudio.Web.CodeGeneration` para la generación de código.
 - `Swashbuckle.AspNetCore` para la documentación de la API con Swagger.
 
 
